@@ -4,7 +4,7 @@ Each basemap is defined as an item in the `basemaps` dictionary.
 
 More WMS basemaps can be found at the following websites:
 
-  1. USGS National Map: https://viewer.nationalmap.gov/services/
+  1. USGS National Map: https://apps.nationalmap.gov/services/
   2. MRLC NLCD Land Cover data: https://viewer.nationalmap.gov/services/
   3. FWS NWI Wetlands data: https://www.fws.gov/wetlands/Data/Web-Map-Services.html
 
